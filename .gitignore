@@ -1,0 +1,24 @@
+﻿# virtual environments
+.venv/
+venv/
+
+# environment variables
+.env
+.env.*
+!.env.example
+
+# local app data
+data/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# logs
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

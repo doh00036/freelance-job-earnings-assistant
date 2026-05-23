@@ -1,0 +1,1 @@
+"""Freelance job assistant package."""
